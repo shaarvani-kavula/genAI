@@ -7,17 +7,13 @@ The repo is for the use of an individual to leverage AI for navigating complex w
 <li>app.py - connects to LLM and uses the prompt to provide context and usecase.</li>
 <li>prompt template - details of risk and safety metrics.
 </li>
-<li>examples.py - Usecases and code runs.
+<li>examples.py - Usecases and code runs. (WIP)
 </li>
 </ol>
 
 #### Related Links
 <ol>
 <li>https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work</li>
-<li>
-</li>
-<li>
-</li>
 </ol>
 
 #### Disclaimer
