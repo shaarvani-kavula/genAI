@@ -16,5 +16,3 @@ The repo is for the use of an individual to leverage AI for navigating complex w
 <li>https://www.who.int/news-room/fact-sheets/detail/mental-health-at-work</li>
 </ol>
 
-#### Disclaimer
-This is not a means to get consultation or medical advice, the code can be leveraged to understand integration of workplace safety  agents to better mental health of employees at work. 
